@@ -1,7 +1,7 @@
 # springboot-producer
 RabbitMQ入门demo
 
-AMQP核心概念：
+AMQP（Advanced Message Queuing Protocol）核心概念：
 
     Server：又称Broker，接受客户端的连接，实现AMQP实体服务
     Connection：连接，应用程序与Broker的网络连接
